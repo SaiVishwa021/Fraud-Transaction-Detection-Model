@@ -25,6 +25,7 @@ Download the dataset [here](https://drive.google.com/file/d/1ngQnASZaWi5VGB5MlYe
 ## How to Run
 
 1. **Clone the Repository**:
+   
    ```bash
    git clone https://github.com/yourusername/Fraud_Detection_Model.git
    cd Fraud_Detection_Model
