@@ -22,13 +22,13 @@ We leverage **XGBoost**, a powerful gradient boosting algorithm, to build this f
 
 ## Dataset
 
-Download the dataset [here](https://github.com/SaiVishwa021/Fraud-Transaction-Detection-Model.git).
+Download the dataset [here]([https://drive.google.com/file/d/1ngQnASZaWi5VGB5MlYe-0kRxwDfFWEk7/view?usp=sharing).
 
 ## How to Run
 
 1. **Clone the Repository**:
    
    ```bash
-   git clone https://github.com/yourusername/Fraud_Detection_Model.git
+   git clone https://github.com/SaiVishwa021/Fraud-Transaction-Detection-Model.git
    cd Fraud_Detection_Model
    ```
